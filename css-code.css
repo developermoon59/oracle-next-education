@@ -1,0 +1,47 @@
+
+    body{
+        background-color: #1f2124;
+    }
+    form{
+        float: left;
+    }
+    img{
+        width: 17px;
+    }
+    .class-security-image {
+        border-radius: 30px;
+        float: left;
+        width: 60px;
+        height: 60px;
+    }
+    p{
+        font-size: 17px;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-bottom: 0px;
+        margin-top: 0px
+    }
+    .class-textarea {   
+        resize: none;
+        width: 300px;
+        height: 300px;
+        border-radius: 20px;
+        background-color: #393d42;
+        padding-left: 50px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        padding-right: 50px;
+        font-size: 17px;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 70px
+    }
+    .class-button {
+        background-color:#666f88;
+        font-size: 17px;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        width: 150px;
+        height: 50px;
+        border-radius: 25px;
+    }

@@ -1,6 +1,7 @@
 
     body{
         background-color: #1f2124;
+        display: grid;
     }
     form{
         float: left;
@@ -20,6 +21,15 @@
         font-family: Arial, Helvetica, sans-serif;
         margin-bottom: 0px;
         margin-top: 0px
+    }
+    footer{
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+        height: 50px;
+        background-color: #393d42;
+        color: white;
+        align-items: center
     }
     .class-textarea {   
         resize: none;
@@ -45,3 +55,4 @@
         height: 50px;
         border-radius: 25px;
     }
+    

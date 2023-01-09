@@ -23,6 +23,7 @@
         margin-top: 0px;
     }
     footer {
+        border-radius: 20px;
         display: flex;
         justify-content: center;
         margin-top: 20px;
